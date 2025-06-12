@@ -1,12 +1,13 @@
-## 腳踏車停車
+## Bicycle Parking
 
-騎腳踏車出門時常常找不到地方停車嗎？開放給使用者貢獻與查詢腳踏車停車區域，並提供評分機制以刪除不可靠的地點。讓城市生活變得更單車友善！
+Are you having trouble for find a bicycle parking space? This app open to all user to search and contribute bicycle parking information. Using the review system to remove unreliable information. Making cycling easier in the city!
+
 
 [Go to Google Play](https://play.google.com/store/apps/details?id=com.ricky.bicycleparking)
 
 ### Support Us
 
-此APP沒有任何營利, 但是仍須開發與維護伺服器的成本, 如果願意支援我們, 可以透過以下方式Donate:
+Since there has no profit for the app, it still need development and server cost. If you like to support us, donation is always welcome!
 
  - Paypal: ricky800822@gmail.com
 
